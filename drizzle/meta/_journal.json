@@ -1,5 +1,13 @@
 {
   "version": "7",
   "dialect": "mysql",
-  "entries": []
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1790079807391,
+      "tag": "0000_aberrant_wonder_man",
+      "breakpoints": true
+    }
+  ]
 }
